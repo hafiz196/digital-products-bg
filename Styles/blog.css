@@ -5,6 +5,29 @@
 }
 .test{
     color: blue;
-    cursor: url();
+    cursor: url("");
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    background-color: blue;
+    padding:10px;
+    width: 250px;
+    color: yellow;
+
+
+}
+.box2{
+    background-color: tomato;
+    
+
+}
+.box3{
+    background-color: black;
+    
 
 }
